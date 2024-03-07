@@ -1,6 +1,6 @@
-# [Coino Live]
+# Coino Live
 
-Welcome to [Coino Live] GitHub Repository!
+Welcome to Coino Live GitHub Repository!
 
 At Coino Live, we embarked on a mission to bridge the gap between traditional finance and the exciting world of cryptocurrencies. Coino Live was founded in 2023 by a team of passionate blockchain enthusiasts; we envisioned a future where crypto payments would be easier than ever to embrace the future of digital transactions.
 ## Why Choose Us?
@@ -13,7 +13,7 @@ At Coino Live, we embarked on a mission to bridge the gap between traditional fi
 
 ## Getting Started
 
-To get started with [Coino Live], follow these simple steps:
+To get started with Coino Live, follow these simple steps:
 
 1. Sign up for a free account on our website
 2. Choose your preferred payment settings and currency options
@@ -21,7 +21,7 @@ To get started with [Coino Live], follow these simple steps:
 
 ## Documentation
 
-For detailed information on how to integrate [Coino Live] payment gateway into your website or application, refer to our [Documentation](https://coino.live/document).
+For detailed information on how to integrate Coino Live payment gateway into your website or application, refer to our [Documentation](https://coino.live/document).
 
 ## Support
 
@@ -30,7 +30,7 @@ For any questions, issues, or feedback, feel free to reach out to our support te
 
 ## Connect with Us
 
-Stay updated with the latest news and updates from [Coino Live]:
+Stay updated with the latest news and updates from Coino Live:
 
 - Follow us on [Twitter](https://twitter.com/coino_live)
 - Follow us on [Instagran](https://www.instagram.com/coino.live)
@@ -53,4 +53,4 @@ Stay updated with the latest news and updates from [Coino Live]:
 - [Contact Us](https://coino.live/contact)
 - [FAQ](https://coino.live/faq)
 
-Thank you for choosing [Your Company Name] for your cryptocurrency payment gateway needs!
+Thank you for choosing Coino Live for your cryptocurrency payment gateway needs!
